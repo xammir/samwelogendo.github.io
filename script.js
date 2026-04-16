@@ -144,7 +144,7 @@ document.addEventListener('DOMContentLoaded', function() {
         poultry: {
             title: "Poultry Management System",
             description: "A comprehensive web-based solution designed specifically for poultry farmers to efficiently manage their operations. This system streamlines daily tasks and provides valuable insights for better decision making.",
-            image: "images/poultry-system.jpg",
+            image: "poultry-system.jpg",
             tags: ["PHP", "MySQL", "Bootstrap", "JavaScript", "Chart.js"],
             features: [
                 "Track flock size and bird demographics",
@@ -161,7 +161,7 @@ document.addEventListener('DOMContentLoaded', function() {
         clothing: {
             title: "Online Clothing Store",
             description: "A full-featured e-commerce platform built for a local fashion retailer. Includes customer-facing storefront and comprehensive admin dashboard for inventory and order management.",
-            image: "images/online-store.jpg",
+            image: "online-store.jpg",
             tags: ["JavaScript", "PHP", "MySQL", "PayPal API", "AJAX"],
             features: [
                 "User registration and authentication",
@@ -178,7 +178,7 @@ document.addEventListener('DOMContentLoaded', function() {
         student: {
             title: "Student Database System",
             description: "An institutional-grade student information management system developed for educational institutions. Features role-based access and comprehensive reporting capabilities.",
-            image: "images/student-system.jpg",
+            image: "student-system.jpg",
             tags: ["HTML/CSS", "PHP", "MySQL", "AJAX", "DataTables"],
             features: [
                 "Student enrollment and registration",
